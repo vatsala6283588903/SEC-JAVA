@@ -1,0 +1,13 @@
+class Student (
+public class Main f
+String name;
+public static void main (Stringli args. t
+int age;
+Student s1 = new Student("Ravi", 22);
+Student(String name, int age) (
+s1.display0;
+this name = name; // 'this.name' = instance variable
+this.age = age; //'age'= local variable
+void display t
+Svstem.out.println("Name: " + name +",
+', Age: " # age);

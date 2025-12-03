@@ -1,0 +1,7 @@
+public class  {
+    public static void main(String[] args) {
+        int a = 25, b = 4;
+        int quotient = a / b;
+        System.out.println("Quotient: " + quotient);
+    }
+}

@@ -1,0 +1,7 @@
+public class MultiplicationExample {
+    public static void main(String[] args) {
+        int a = 7, b = 6;
+        int product = a * b;
+        System.out.println("Product: " + product);
+    }
+}
